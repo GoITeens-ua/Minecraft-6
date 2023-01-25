@@ -85,6 +85,10 @@
 | Код:       | <p><img src=".gitbook/assets/11.png" alt="" data-size="original"></p><p><img src=".gitbook/assets/12.png" alt="" data-size="original"></p><p><img src=".gitbook/assets/13.png" alt="" data-size="original"></p> |
 | Результат: | <img src=".gitbook/assets/10.png" alt="" data-size="original">                                                                                                                                                  |
 
+Тепер нам залишилося тільки додати команди для керування нашим Агентом та зіграти в гру:
+
+<figure><img src=".gitbook/assets/14.png" alt=""><figcaption></figcaption></figure>
+
 ## Сторони світу
 
 У Minecraft існують **сторони світла**. Визначити сторони світла у самій грі можна так само, як і реальному світі:
